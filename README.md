@@ -1,6 +1,6 @@
 # La-vie-3.3
 Super jeu à tester 
-# 🎮 La-vie-3.3Un jeu de simulation de vie complet en Python créé par Antoine Larribe.
+# La-vie-3.3Un jeu de simulation de vie complet en Python créé par Antoine Larribe.
 
 Vivez une vie virtuelle de la naissance à la retraite, avec des choix qui comptent !**
 
